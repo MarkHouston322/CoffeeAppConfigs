@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: 324f34995541060f5eb163d179e38b12e42d4399275cbaaaf278c7dc1888c1ad4aefcb808618430b9e333038b9a1ca63a2df2b0f10a44df4ae21a838443970f2962dbd3ab127f60d0a80babd7f862fdf
-    username: 1613e30106be559e2a419c7cf2c2147ae68d1c7d616d33876874f5b9cd775ad8
-    password: 527257bf9b726b62a5d0475ad5ac8e6520e72a0911dae4940f126de696b67e7d
+    url: jdbc:postgresql://localhost:5432/customer_service
+    username: postgres
+    password: denis
