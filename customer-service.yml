@@ -4,7 +4,7 @@ spring:
     username: postgres
     password: denis
   rabbitmq:
-    host: localhost
+    host: da84fadb7ff658fdb5f771fb4d471bb70bb6797fc573d702b3c00c3d45c48d68
     port: 5672
     username: guest
     password: guest
